@@ -7,8 +7,8 @@
 BluetoothSerial blt;
 
 // Replace with your network credentials
-String ssid = "HAO_VNPT";
-String password = "0974880347";
+String ssid = "";
+String password = "";
 
 IPAddress local_ip(192,168,1,200);
 IPAddress gateway(192,168,1,1);
