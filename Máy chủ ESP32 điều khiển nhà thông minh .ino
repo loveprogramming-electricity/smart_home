@@ -94,11 +94,11 @@ void setup()
     server.on("/tatpb",ham_tatpb);
     server.on("/tatpn1",ham_tatpn1);
     server.on("/tatpn2",ham_tatpn2);
-    server.on("/tatpn3",ham_tatpn3);
-    server.on("/tatds",ham_tatds);
-    server.on("/tatdbh",ham_tatdbh);
-    server.on("/tatdvs",ham_tatdvs);
-    server.on("/tattoanbo",ham_tattoanbo);
+    // server.on("/tatpn3",ham_tatpn3);
+    // server.on("/tatds",ham_tatds);
+    // server.on("/tatdbh",ham_tatdbh);
+    // server.on("/tatdvs",ham_tatdvs);
+    // server.on("/tattoanbo",ham_tattoanbo);
 
     server.on("/batpk",ham_batpk);
     server.on("/batpb",ham_batpb);
