@@ -22,8 +22,6 @@ String header;
 
 // Auxiliar variables to store the current output state
 
-int gpio[8]={12,13,14,15,16,17,18,19};
-String gpio_state[8]={"off","off","off","off","off","off","off","off"};
 
 int gpio_cong[2]={2,4}; 
 String gpio_cong_state[2]={"close","close"};
